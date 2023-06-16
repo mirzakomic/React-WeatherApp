@@ -5,7 +5,6 @@ import cloud from "./assets/img/cloud.png"
 import cloudy from "./assets/img/cloudy.png"
 import rain from "./assets/img/rain.png"
 import storm from "./assets/img/storm.png"
-
 const apiKey = import.meta.env.VITE_API_KEY
 
 function App() {
